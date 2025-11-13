@@ -1,6 +1,6 @@
 export default function TicketsSection() {
     return (
-        <section className="{ticketsSection} mt-18 h-[50vh]">
+        <section className="{ticketsSection} mt-18 h-[30vh]">
             <div className="flex flex-col items-center justify-center gap-20">
 
 
@@ -26,7 +26,7 @@ export default function TicketsSection() {
                 </div>
 
 
-                <a href="https://www.bandsintown.com/artist-subscribe/307871?utm_campaign=track&utm_medium=web&app_id=umg_defjam_justinbieber&affil_code=umg_us&utm_source=public_api&came_from=267&spn=0&signature=ZZ1e79ec7b8f1e244c11f720095b0da49ac2adfce13e7e9ec15aca5ca65e4f2920" target="_blank" className="text-white font-[prata] text-[1.2rem] transform scale-y-80 font-bold bg-zinc-900 p-3 rounded-[5px] hover:bg-white/30">
+                <a href="https://www.bandsintown.com/artist-subscribe/307871?utm_campaign=track&utm_medium=web&app_id=umg_defjam_justinbieber&affil_code=umg_us&utm_source=public_api&came_from=267&spn=0&signature=ZZ1e79ec7b8f1e244c11f720095b0da49ac2adfce13e7e9ec15aca5ca65e4f2920" target="_blank" className="text-white font-[prata] text-[1.2rem] transform scale-y-80 font-bold mt-10 bg-zinc-900 p-3 rounded-[5px] hover:bg-white/30">
                     FOLLOW ON BANDSINTOWN
                 </a>
             </div>
