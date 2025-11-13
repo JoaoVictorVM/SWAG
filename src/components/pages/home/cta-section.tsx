@@ -1,6 +1,6 @@
 export default function CtaSection() {
     return (
-        <section className="h-[40vh] flex flex-col items-center justify-center">
+        <section className="h-[60vh] flex flex-col items-center justify-center">
             <div className="flex flex-col items-center gap-2">
                 <p className="text-[var(--color-gray)] font-[helvetica] text-5xl font-bold tracking-widest">FOUR GRAMMY NOMINATIONS</p>
                 <p className="text-[var(--color-gray)] font-[helvetica] text-2xl uppercase">Pick your platform and hit play</p>

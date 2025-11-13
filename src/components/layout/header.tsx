@@ -2,7 +2,7 @@ import { Instagram, Facebook, Twitter } from "lucide-react";
 
 export default function Header() {
     return(
-        <header className="fixed top-0 left-0 w-full pl-25 pr-25 pt-8">
+        <header className="fixed top-0 left-0 w-full pl-25 pr-25 pt-8 z-10 ">
             <div className="flex items-center justify-between">
                 <p className="text-[var(--color-text)] font-[helvetica] tracking-[1.5rem] font-extrabold">JUSTIN BIEBER</p>
 
