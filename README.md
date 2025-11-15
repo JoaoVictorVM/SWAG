@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SWAG - Justin Bieber
 
-## Getting Started
+Página de exibição do álbum SWAG do cantor Justin Bieber. Este projeto foi desenvolvido com o objetivo de aperfeiçoar minha estruturação em Next.js e aprofundar minha familiaridade com estilização utilizando TailwindCSS.
 
-First, run the development server:
+https://github.com/user-attachments/assets/f64b253e-7a55-4282-b9f6-422301ec843e
 
+🔗 **[Confira o projeto aqui](https://swag-smoky.vercel.app/)**
+
+---
+
+### Teclogias Utilizadas
+- **Next.js**
+- **TypeScript**
+- **TailwindCSS**
+
+---
+
+### Features
+- Destaque visual usando `transform scale-y`
+- 100% responsivo
+- Player YouTube embutido
+- Navegação por múltiplos vídeos com botões de **próximo** e **anterior**
+
+---
+
+### Instalação e Uso
+
+Clone o repositório:
+```bash
+git clone https://github.com/JoaoVictorVM/SWAG
+```
+Instale as dependências:
+```bash
+npm install
+```
+Execute o servidor de desenvolvimento:
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
+Acesse em:
+http://localhost:3000
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Licença
 
-## Learn More
+Este projeto é apenas para fins educacionais/demonstrativos.  
+Você pode modificá-lo como quiser.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Autor
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**João Victor Ventura Martins**
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+💼 [LinkedIn](https://www.linkedin.com/in/jvvmartins/)  
+💻 [Portfólio](https://portfolio-eight-lemon-57.vercel.app/)  
+📸 [Instagram](https://www.instagram.com/dev.joaov/)  
+🐙 [GitHub](https://github.com/JoaoVictorVM)
